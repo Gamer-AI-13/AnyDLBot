@@ -1,9 +1,7 @@
 class Translation:
     START_TEXT = """Hello,
 This is a Telegram any DL Bot!
-
 <b>мade вy [тнιѕ legend](https://t.me/pppppgame)</b>
-
 <b>[Jσιɳ συɾ ƈԋαɳɳҽʅ](https://t.me/AI_bot_projects)</b>
 
 <b>/help for more details..</b>"""
