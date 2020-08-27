@@ -1,6 +1,6 @@
 class Translation:
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
+This is a Telegram any DL Bot!
 
 <b>мade вy [тнιѕ legend](https://t.me/pppppgame)</b>
 
