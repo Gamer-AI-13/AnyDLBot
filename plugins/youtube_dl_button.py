@@ -219,13 +219,13 @@ async def youtube_dl_call_back(bot, update):
             if os.path.exists(thumb_image_path):
                # width = 0
                #  height = 0
-                metadata = extractMetadata(createParser(thumb_image_path))
-                if metadata.has("width"):
-                    width = metadata.get("width")
-                if metadata.has("height"):
-                    height = metadata.get("height")
+                #metadata = extractMetadata(createParser(thumb_image_path))
+                #if metadata.has("width"):
+                    #width = metadata.get("width")
+                #if metadata.has("height"):
+                    #height = metadata.get("height")
                 if tg_send_type == "vm":
-                    height = width
+                    #height = width
                 # resize image
                 # ref: https://t.me/PyrogramChat/44663
                 # https://stackoverflow.com/a/21669827/4723940
